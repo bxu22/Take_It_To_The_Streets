@@ -1,10 +1,3 @@
-.body-content {
-    margin-top: 2.5%;
-    margin-bottom: 2.5%;
-    margin-left: 10%;
-    margin-right: 10%;
-}
-
 .images {
     display: flex;
     flex-direction: row;
@@ -33,9 +26,14 @@
     
 }
 
-.target-ward > img {
-    margin: auto;
-    width: 350px;
+.target-ward-image {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.target-ward-image > img {
+    width: 600px;
 }
 
 

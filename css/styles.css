@@ -84,3 +84,10 @@ h2 {
 .nav-menu-buttons:hover:after {
     width: 100%;
 }
+
+.body-content {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
