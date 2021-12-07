@@ -7,9 +7,35 @@
 
 .images {
     display: flex;
+    flex-direction: row;
     justify-content: center;
 }
 
-.images > img {
+.wards {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.wards > img {
     width: 350px;
 }
+
+.chicago-map-wards > img {
+    width: 912px;
+}
+
+.target-ward {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+.target-ward > img {
+    margin: auto;
+    width: 350px;
+}
+
+

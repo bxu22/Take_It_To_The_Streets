@@ -20,7 +20,9 @@
 }
 
 .body-content-right {
-    width: 720px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
 
 .body-content-right > img {
