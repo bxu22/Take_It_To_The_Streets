@@ -1,0 +1,15 @@
+.body-content {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+}
+
+.images > img {
+    width: 350px;
+}

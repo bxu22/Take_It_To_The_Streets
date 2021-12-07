@@ -1,0 +1,14 @@
+.body-content {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 900px;
+}
+
+.pdf_viewer {
+    width: 80%;
+    height: 100%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}

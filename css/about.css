@@ -1,0 +1,43 @@
+.body-content {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.requirements-text {
+    margin-bottom: 0;
+}
+
+.list-requirements {
+    margin-top: 0;
+}
+
+.body-content-left {
+    width: 35%;
+}
+
+.body-content-right {
+    width: 720px;
+}
+
+.body-content-right > img {
+    width: 720px;
+    margin-bottom: 48px;
+}
+
+#choice {
+    font-size: 42px;
+}
+
+.contest-button-layout {
+    display: flex;
+    justify-content: center;
+}
+
+.contest-button {
+    font-size: 24px;
+    cursor: pointer;
+}
